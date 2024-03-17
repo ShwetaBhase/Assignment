@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DemoProject</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="exit">Exit</string>
+    <string name="str_do_u_wanna_exit">Do You Want To Exit ?</string>
+    <string name="msg_internet_connection">nternet connection is not available, please check your connection.</string>
+    <string name="str_data_not_avail">Data not available</string>
+    <string name="plz_try_again">Please try again later</string>
+    <string name="str_name">Name</string>
+
+</resources>
